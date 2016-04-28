@@ -1,0 +1,90 @@
+/******************************************/
+/*=========     MEDIA-QUERIES    =========*/
+/******************************************/
+
+@media (min-width: 560px)
+	// versión SM
+	.red-button
+		display: inline-block
+	
+	.services
+		article
+			margin: 40px 5.5% 0
+
+	.project-list
+		+clearfix
+		figure
+			float: left
+			width: 40%		//Preguntar si debo poner max-width en lugar de width
+
+@media (min-width: 800px)
+	// versión MD
+	.logo
+		display: block
+		margin: auto
+
+	.toggle-button
+		display: none
+
+	nav
+		border-top: solid 1px #ddd
+		position: relative
+		background-color: #fff
+		width: 100%			//Preguntar si debo poner max-width en lugar de width
+		height: 10vh		//Preguntar vh, como le doy el alto necesario al nav para que se vea
+		text-align: center
+		li
+			display: inline-block
+			color: black
+
+	.fa-close
+		display: none
+
+	.red-button
+		margin: 25px 10px 0
+
+	.subtitle
+		+ p
+			padding: 0 0
+
+	.services 
+		+clearfix
+		article
+			float: left
+			width: 42%		//Preguntar si debo poner max-width en lugar de width
+			margin: 40px 4% 0
+
+	.testimonies
+		article
+			margin: 40px 2% 0
+
+@media (min-width: 1100px)
+	// versión LG
+	.services
+		article
+			margin: 40px 1% 0
+			width: 48%		//Preguntar si debo poner max-width en lugar de width
+
+	.subtitle
+		+ p
+			padding: 0 10px
+
+	.testimonies
+		+clearfix
+		article
+			float: left
+			width: 32.33%	//Preguntar si debo poner max-width en lugar de width
+			margin: 40px 0.5% 0
+		p 
+			height: 175px	//Preguntar como hacer para que todos los p tengan el mismo alto
+
+	#contact
+		+clearfix
+		form
+			float: left
+			width: 50%		//Preguntar si debo poner max-width en lugar de width
+
+	.map
+		float: left
+		width: 50%			//Preguntar si debo poner max-width en lugar de width
+		height: 604.906px	//Preguntar si esta bien o tengo que darle un height: 100%

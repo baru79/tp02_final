@@ -1,0 +1,36 @@
+-----------------------------------------------------
+https://fortawesome.github.io/Font-Awesome/icons/
+-----------------------------------------------------
+diamond
+<i class="fa fa-diamond" aria-hidden="true"></i>
+
+code
+<i class="fa fa-code" aria-hidden="true"></i>
+
+bar-chart
+<i class="fa fa-bar-chart" aria-hidden="true"></i>
+
+dollar
+<i class="fa fa-usd" aria-hidden="true"></i>
+-----------------------------------------------------
+facebook
+<i class="fa fa-facebook" aria-hidden="true"></i>
+
+google-plus
+<i class="fa fa-google-plus" aria-hidden="true"></i>
+
+twitter
+<i class="fa fa-twitter" aria-hidden="true"></i>
+
+youtube
+<i class="fa fa-youtube" aria-hidden="true"></i>
+
+behance
+<i class="fa fa-behance" aria-hidden="true"></i>
+
+pinterest
+<i class="fa fa-pinterest" aria-hidden="true"></i>
+
+dribbble
+<i class="fa fa-dribbble" aria-hidden="true"></i>
+-----------------------------------------------------
